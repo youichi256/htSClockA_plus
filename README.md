@@ -1,7 +1,7 @@
 # S CLOCK-A plus
 
 ## 概要
-Windowsガジェットで動作するアナログ時計です。
+Windowsガジェットで動作するアナログ時計です。<br />
 66turnさんの作成されたWindowsガジェット用のアナログ時計(S CLOCK-A)を改造しています。
 
 
