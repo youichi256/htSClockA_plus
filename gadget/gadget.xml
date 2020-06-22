@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gadget>
+	<name>S CLOCK-A</name>
+	<namespace>htSClockA_plus.gadget</namespace>
+	<version>1.1</version>
+	<author name="66turn">
+	</author>
+	<copyright>© MMVIII</copyright>
+	<icons>
+		<icon src="images/image.png"/>
+	</icons>
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="1.0.0" src="gadget.html"/>
+			<permissions>Full</permissions>
+			<platform minPlatformVersion="1.0"/>
+			<defaultImage src="images/image.png"/>
+		</host>
+	</hosts>
+</gadget>
